@@ -6,3 +6,8 @@
 n을 곱하면 int의 범위가 넘어갈 것이라는 생각을 못했다.           
 그래서 처음에 Integer로 코드를 짰으나 오류가 났고
 Long으로 바꾸니 오류없이 잘 되었다.
+
+### 스터디의 다른 사람이 푼 코드  
+![image](https://user-images.githubusercontent.com/122864238/224948586-67efcbb0-09f5-4af3-998c-a8011d4af631.png)
+
+Stream....ㅠ
